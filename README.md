@@ -2,7 +2,7 @@
 
 Arquivos e resumos sobre a matéria...
 
-Abre TABELA sofre Flexão Verbal - Língua Portuguesa - em formato HTML : 
+Abre TABELA sofre Flexão Verbal - (Língua Portuguesa) - em formato HTML - index.html: 
 **https://heliogiroto.github.io/morfossintaxe/**
 
 Abre arquivo LATEX com outros modelos da mesma tabela:
