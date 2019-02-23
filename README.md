@@ -2,7 +2,7 @@
 
 Arquivos e resumos sobre a matéria...
 
-Abre TABELA sofre Flexão Verbal em formato HTML:
+Abre TABELA sofre Flexão Verbal - Língua Portuguesa - em formato HTML : 
 **https://heliogiroto.github.io/morfossintaxe/**
 
 Abre arquivo LATEX com outros modelos da mesma tabela:
@@ -14,7 +14,8 @@ Abre PDF com os modelos acima, agora compilados:
 Arquivo .TGN que pode ser aberto (faz "load") no site: https://www.tablesgenerator.com/:
 **https://github.com/HelioGiroto/morfossintaxe/blob/master/tab.tgn** 
 
+<hr>
 Autor: Hélio Giroto
 
-Fev/2019
+Made in a Raspberry Pi - Fev/2019
 
